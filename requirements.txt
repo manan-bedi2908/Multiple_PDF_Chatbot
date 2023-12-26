@@ -5,3 +5,4 @@ faiss-cpu
 huggingface_hub
 python-dotenv
 streamlit
+sentence-transformers
